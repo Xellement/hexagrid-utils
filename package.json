@@ -1,0 +1,20 @@
+{
+  "name": "hexagrid-utils",
+  "version": "1.0.0",
+  "description": "Node package to manage hexagone grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xellement/hexagrid-utils.git"
+  },
+  "keywords": [],
+  "author": "Xellement",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xellement/hexagrid-utils/issues"
+  },
+  "homepage": "https://github.com/Xellement/hexagrid-utils#readme"
+}
